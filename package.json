@@ -1,0 +1,19 @@
+{
+  "name": "usco-object-reflex",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mark kaosat-dev Moissette",
+  "license": "MIT",
+  "devDependencies": {
+    "esprima": "~1.0.4",
+    "esvalidate": "0.0.2"
+  },
+  "dependencies": {
+    "esmorph": "0.0.1",
+    "escodegen": "~1.0.1"
+  }
+}
